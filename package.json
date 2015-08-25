@@ -1,0 +1,22 @@
+{
+  "name": "thedreamteam",
+  "version": "1.0.0",
+  "description": "voteandlearn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjuarez86/thedreamteam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gjuarez86/thedreamteam/issues"
+  },
+  "homepage": "https://github.com/gjuarez86/thedreamteam#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
